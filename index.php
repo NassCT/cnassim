@@ -35,6 +35,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#work">Work</a></li>
+          <li><a class="nav-link scrollto" href="#veille">Veille</a></li>
           <li class="dropdown">
             <a href="#"><span>Projets</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -377,7 +378,7 @@
     <!-- End Testimonials Section -->
 
     <!-- ======= Section Veille Technologique ======= -->
-    <section id="blog" class="blog-mf sect-pt4 route">
+    <section id="veille" class="blog-mf sect-pt4 route">
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
@@ -394,22 +395,22 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="blog-single.html"><img src="assets/img/post-1.jpg" alt="" class="img-fluid"></a>
+                <a href="https://infos.rtl.lu/photos-et-videos/deja-demain/a/2136720.html"><img src="assets/img/mikaia.png" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
                   <div class="card-category">
-                    <h6 class="category">Robot  IA</h6>
+                    <h6 class="category">ROBOT IA</h6>
                   </div>
                 </div>
-                <h3 class="card-title"><a href="blog-single.html">Mika</a></h3>
+                <h3 class="card-title"><a href="https://infos.rtl.lu/photos-et-videos/deja-demain/a/2136720.html">Mika</a></h3>
                 <p class="card-description">
-                Dictador, une marque colombienne de rhum, a créé l'histoire en nommant Mika, un robot piloté par l'IA, en tant que PDG pour aider l'entreprise dans ses ambitions mondiales. Développé par Hanson Robotics, le même créateur de Sophia, Mika assure être disponible 24h/24, 7j/7, pour des décisions stratégiques. Malgré ses responsabilités, les décisions majeures chez Dictador restent aux mains des dirigeants humains. Certains voient cette nomination comme une opération marketing plutôt qu'une réelle révolution dans la gouvernance d'entreprise.
+                  Dictador, une marque colombienne de rhum, a créé l'histoire en nommant Mika, un robot piloté par l'IA, en tant que PDG pour aider l'entreprise dans ses ambitions mondiales. Développé par Hanson Robotics, le même créateur de Sophia, Mika assure être disponible 24h/24, 7j/7, pour des décisions stratégiques. Malgré ses responsabilités, les décisions majeures chez Dictador restent aux mains des dirigeants humains. Certains voient cette nomination comme une opération marketing plutôt qu'une réelle révolution dans la gouvernance d'entreprise.
                 </p>
               </div>
               <div class="card-footer">
                 <div class="post-author">
-                  <a href="#">
+                  <a href="https://infos.rtl.lu/photos-et-videos/deja-demain/a/2136720.html">
                     <img src="assets/img/head.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Nassim Chantout</span>
                   </a>
@@ -423,28 +424,28 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="blog-single.html"><img src="assets/img/post-2.jpg" alt="" class="img-fluid"></a>
+                <a href="https://www.zinfos974.com/un-robot-dote-dintelligence-artificielle-cree-a-la-reunion/"><img src="assets/img/glados.png" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
                   <div class="card-category">
-                    <h6 class="category">Web Design</h6>
+                    <h6 class="category">ROBOT IA</h6>
                   </div>
                 </div>
-                <h3 class="card-title"><a href="blog-single.html">Découvrez plus d'idées sur le design web</a></h3>
+                <h3 class="card-title"><a href="https://www.zinfos974.com/un-robot-dote-dintelligence-artificielle-cree-a-la-reunion/">Glados, le robot futuriste</a></h3>
                 <p class="card-description">
-                  Explorez les dernières tendances en matière de conception web et découvrez des concepts innovants pour vos projets.
+                  Yannick Picard a développé le robot Glados, qui intègre une intelligence artificielle, et sera une vedette à la deuxième édition du Futura Network. Initialement conçu comme un programme domotique pendant le confinement en 2020, Glados a évolué pour devenir un robot interactif pouvant répondre à des questions grâce à l'IA. Picard envisage son intégration dans les foyers, les musées et divers établissements. Il travaille également sur un drone autonome pour la sécurité des maisons, utilisant la reconnaissance faciale par l'IA de Glados. Picard souligne l'importance de surveiller le développement de l'IA, affirmant que celle-ci ne remplacera jamais l'humanité.
                 </p>
               </div>
               <div class="card-footer">
                 <div class="post-author">
-                  <a href="#">
+                  <a href="https://www.zinfos974.com/un-robot-dote-dintelligence-artificielle-cree-a-la-reunion/">
                     <img src="assets/img/head.jpg" alt="" class="avatar rounded-circle">
-                    <span class="author">Nassim Chantout</span>
+                    <span href="https://www.zinfos974.com/un-robot-dote-dintelligence-artificielle-cree-a-la-reunion/" class="author">Nassim Chantout</span>
                   </a>
                 </div>
                 <div class="post-date">
-                  <span class="bi bi-clock"></span> 10 min
+                  <span class="bi bi-clock"></span> Octobre
                 </div>
               </div>
             </div>
@@ -452,22 +453,22 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="blog-single.html"><img src="assets/img/post-3.jpg" alt="" class="img-fluid"></a>
+                <a href="https://issues.fr/perfection-de-lemballage-le-mit-utilise-lia-generative-pour-remodeler-la-precision-robotique/"><img src="assets/img/rio.png" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
                   <div class="card-category">
-                    <h6 class="category">Web Design</h6>
+                    <h6 class="category">INDUSTRIE</h6>
                   </div>
                 </div>
-                <h3 class="card-title"><a href="blog-single.html">Découvrez plus d'idées sur le design web</a></h3>
+                <h3 class="card-title"><a href="https://issues.fr/perfection-de-lemballage-le-mit-utilise-lia-generative-pour-remodeler-la-precision-robotique/">Le MIT révolutionne l'emballage robotique</a></h3>
                 <p class="card-description">
-                  Plongez dans le monde du design web et explorez des idées créatives pour rendre vos projets uniques et attrayants.
+                  Des chercheurs du MIT ont développé une méthode d'apprentissage automatique pour améliorer l'emballage robotique en utilisant l'intelligence artificielle générative. Leur approche, appelée Diffusion-CCSP, combine des modèles d'apprentissage automatique représentant différents types de contraintes pour résoudre efficacement des problèmes d'emballage complexes. Les modèles génératifs travaillent ensemble pour trouver des solutions en tenant compte de toutes les contraintes simultanément, surpassant les méthodes traditionnelles. Cette méthode a été testée avec succès sur des problèmes d'emballage difficiles, dépassant d'autres techniques dans la génération de solutions efficaces, stables et sans collision. Les chercheurs envisagent d'étendre l'application de leur méthode à des situations plus complexes et différents domaines. La recherche a été financée par plusieurs organisations, dont la National Science Foundation et le MIT-IBM Watson AI Lab.
                 </p>
               </div>
               <div class="card-footer">
                 <div class="post-author">
-                  <a href="#">
+                  <a href="https://issues.fr/perfection-de-lemballage-le-mit-utilise-lia-generative-pour-remodeler-la-precision-robotique/">
                     <img src="assets/img/head.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Nassim Chantout</span>
                   </a>
