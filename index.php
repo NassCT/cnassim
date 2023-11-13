@@ -47,6 +47,9 @@
                   <li>
                     <a href="https://www.soubouempire.tk">shobouempire.tk</a>
                   </li>
+                  <li>
+                    <a href="http://www.nass.rf.gd">nass.rf</a>
+                  </li>
                 </ul>
               </li>
 
