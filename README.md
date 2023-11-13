@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projet de Portfolio
 
 Ceci est portfolio simple, construit avec PHP et Bootstrap.
@@ -38,6 +37,3 @@ Nous utilisons [SemVer](http://semver.org/) pour le versioning. Pour les version
 ## Auteurs
 
 * **NassCT** - *cnassim* - [NassCT](https://github.com/NassCT)
-=======
-# cnassim
->>>>>>> 1afaf915aa82a62ff82d07470de68e7b4e92cbd1
