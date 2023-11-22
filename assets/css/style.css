@@ -477,8 +477,11 @@ a:hover {
 * Desktop Navigation 
 */
 .navbar {
+  position: relative;
+  left: 0; /* Ajustez cette valeur selon vos besoins */
   padding: 0;
 }
+
 
 .navbar ul {
   margin: 0;
@@ -628,7 +631,7 @@ a:hover {
   .mobile-nav-toggle {
     display: block;
   }
-
+  
   .navbar ul {
     display: none;
   }
@@ -1275,7 +1278,7 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
+  display: block;
 }
 
 /*--------------------------------------------------------------

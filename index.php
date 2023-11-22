@@ -56,11 +56,11 @@
               <li class="dropdown">
                 <a href="#"><span>Projet Pros</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">SGRC</a></li>
-                  <li><a href="#">Association</a></li>
+                  <li><a href="SGRC">SGRC</a></li>
+                  <li><a href="Association">Association</a></li>
+                  <li><a href="https://www.cnassim.com">cnassim.com</a></li>
                 </ul>
               </li>
-              <li><a href="https://www.cnassim.com">cnassim.com</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -564,13 +564,7 @@
                     <div class="socials">
                       <ul>
                         <li>
-                          <a href=""><span class="ico-circle"><i class="bi bi-facebook"></i></span></a>
-                        </li>
-                        <li>
-                          <a href=""><span class="ico-circle"><i class="bi bi-instagram"></i></span></a>
-                        </li>
-                        <li>
-                          <a href=""><span class="ico-circle"><i class="bi bi-twitter"></i></span></a>
+                          <a href="https://github.com/NassCT"><span class="ico-circle"><i class="bi bi-github"></i></span></a>
                         </li>
                         <li>
                           <a href="https://www.linkedin.com/in/nassim-chantout-990aa7260/"><span class="ico-circle">
