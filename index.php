@@ -71,19 +71,23 @@
     </div>
   </header>
   <!-- End Header -->
+  
 
   <!-- ======= Hero Section ======= -->
-  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/1stars.jpg)">
-    <div class="overlay-itro"></div>
+  
+  <!-- ... Votre contenu existant ... -->
+
+
+  <div id="hero" class="hero route bg-image">
+  <div id="particles-js"></div>
     <div class="hero-content display-table">
+
       <div class="table-cell">
         <div class="container">
-          <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="hero-title mb-4">I am Nassim Chantout</h1>
           <p class="hero-subtitle">
             <span class="typed" data-typed-items="Designer, Developer, Freelancer, Student"></span>
           </p>
-          <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
     </div>
@@ -599,7 +603,14 @@
 
 
   <!-- Template Main JS File -->
+  <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+  <script src="assets/js/particles.js"></script>
   <script src="assets/js/main.js"></script>
+
+
+
+
 </body>
 
 </html>
